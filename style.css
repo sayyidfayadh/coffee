@@ -1,0 +1,212 @@
+
+body{
+  background-color: #dc983d;
+}
+.navb{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 120px;
+  background-color: #d0903d;
+}
+.navb P{
+  font-family: "Black Ops One", system-ui;
+  font-size: 650%;
+  margin-left: 10px;
+  color: rgb(48, 31, 19);
+  text-shadow: 2px 3px 4px black;
+
+}
+.navb img{
+  position: absolute;
+  left: 18%;
+  top: 23%;
+}
+.stick{
+  background-color: #d0903d;
+  position: sticky;
+  top: 0px;
+}
+.c1{
+  margin-top: -8px;
+  justify-content: center;
+  background-color:#edb975f8;
+}
+.c1 h1{
+  text-align: center;
+  font-size: 60px;
+}
+.c1 .conten{
+  border: 1px solid black;
+  font-size: small;
+  font-weight: 600;
+  justify-content: center;
+  padding: 50px;
+  margin: 30px;
+  text-align: justify;
+  font-size: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#types{
+  padding: 30px;
+  font-size: 18px;
+  margin-top: -30px;
+  text-align: justify;
+  background-color:#edb975f8;
+
+}
+#sticky{
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  
+
+}
+#types h1{
+    padding: 30px;
+    text-align: center;
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 900;
+    color: rgb(48, 31, 19);
+    text-shadow: 2px 3px 4px black;
+}
+#topb{
+  position: relative;
+  padding: 30px;
+  font-size: 18px;
+  margin-top: -30px;
+  text-align: justify;
+
+  background-color:#edb975f8;
+
+}
+#topb h1{
+  padding: 30px;
+  text-align: center;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 900;
+  color: rgb(48, 31, 19);
+  text-shadow: 2px 3px 4px black;
+}
+#topb .row{
+  display: flex;
+  margin-left: 15%;
+  margin-right: 10%;
+  justify-content: center;
+
+}
+#topb img{
+  height: 200px;
+  width: 250px;
+  border-radius: 10px;
+  
+}
+#topb .img2{
+  margin-left: 80px;
+}
+#gallery{
+  background-color:#edb975f8;
+
+}
+#gallery .gal{
+  background-color: #d0903d;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+ 
+}
+#gallery img{
+  margin: 20px;
+  border-radius: 20px;
+}
+#gallery img:hover{
+  scale: 1.001;
+  box-shadow: 0px 0px 11px black;
+}
+#gallery h1{
+  padding: 30PX;
+  text-align: center;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 900;
+  color: rgb(48, 31, 19);
+  text-shadow: 2px 3px 4px black
+
+}
+#query{
+  background-color:#edb975f8;
+  padding-bottom: 30px;
+}
+#query h1{
+  padding: 30PX;
+  text-align: center;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 900;
+  color: rgb(48, 31, 19);
+  text-shadow: 2px 3px 4px black
+}
+#query .cont3{
+  text-align: center;
+  background-color: #d0903d;
+  align-items: center;
+}
+#query input{
+  margin: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+#query textarea{
+  margin-left: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+.tab1{
+  margin-left: 150px;
+  width: 50%;
+  padding: 60px;
+}
+.c4{
+  padding: 30px;
+  border: 4px solid black;
+  border-radius: 10px;
+background-color: #d0903d;
+}
+#foot{
+  background-color: #d0903d;
+}
+footer{
+  background-color: #dc983d;
+  width: 100%;
+  margin-top: -80px;
+  z-index: 0;
+}
+footer img{
+  width: 170px;
+}
+footer .col{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+footer i{
+  margin-left: 10px;
+}
+footer .rows{
+  
+  display: flex;
+  justify-content: space-between;
+  gap: 300px;
+}
+.col h1{
+  font-size: 400%;
+
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 900;
+  color: rgb(48, 31, 19);
+  text-shadow: 2px 3px 4px black
+}
+
+
